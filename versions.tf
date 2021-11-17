@@ -3,5 +3,6 @@ terraform {
 
   required_providers {
     aws = ">= 3.64"
+    region = "ap-south-1"
   }
 }
